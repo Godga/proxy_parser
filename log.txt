@@ -1,3 +1,3 @@
-Cобрано 1 серверов для CN c hidemy.name 
-Невозможно подключиться к free-proxy.cz.Cобрано 341 серверов для UA c hidemy.name 
+Cобрано 396 серверов для RU c hidemy.name 
+Cобрано 169 серверов для UA c hidemy.name 
 выполнено успешно 
